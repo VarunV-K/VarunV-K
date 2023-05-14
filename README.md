@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VarunV-K
-- 👀 I’m interested in developing intelligent and interactive bots
+- 👀 I’m interested in developing intelligent and interactive AI
 - 🌱 I’m currently learning Python and Machine learning
 - 💞️ I’m looking to collaborate on projects on AI
 
